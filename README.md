@@ -80,9 +80,9 @@ I'm a technology enthusiast passionated in developing cloud-based applications. 
 <div align="center">
   <a href="https://github.com/rulim34">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rulim34&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=true&line_height=30">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rulim34&theme=github_dark&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=true&line_height=30">
-      <img alt="Ahmad Rulim's GitHub%20Stats" src="https://github-readme-stats.vercel.app/api?username=rulim34&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=true&line_height=30">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rulim34&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rulim34&theme=github_dark&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true">
+      <img alt="Ahmad Rulim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rulim34&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true">
     </picture>
   </a>
 </div>
@@ -92,7 +92,7 @@ I'm a technology enthusiast passionated in developing cloud-based applications. 
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rulim34&theme=default&hide_border=true&border_radius=10px&custom_title=WakaTime%20Stats&layout=compact&langs_count=5">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rulim34&theme=github_dark&hide_border=true&border_radius=10px&custom_title=WakaTime%20Stats&layout=compact&langs_count=5">
-      <img alt="Ahmad Rulim's WakaTime%20Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rulim34&theme=default&hide_border=true&border_radius=10px&custom_title=WakaTime%20Stats&layout=compact&langs_count=5">
+      <img alt="Ahmad Rulim's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rulim34&theme=default&hide_border=true&border_radius=10px&custom_title=WakaTime%20Stats&layout=compact&langs_count=5">
     </picture>
   </a>
 </div>
